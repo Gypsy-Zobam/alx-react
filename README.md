@@ -1,1 +1,1 @@
-# ALX / Holberton React - A framework used in Frontend Specialization
+ 0x09-react_redux_connectors_and_providers
